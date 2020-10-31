@@ -1,3 +1,76 @@
+body{margin: 0; padding: 0;}
+img{ margin: 0; padding: 0; width: 100%; vertical-align: top;}
+.max{width: 100%;}
+.down{width: 20%; margin-left: 40%; margin-right: 40%;}
+.btn{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.btn-img{width: inherit;}
+.kome{
+    margin-bottom:20px;
+    font-size: 1px;
+}
+.kome-mgn{
+    margin-top: 20px;
+    margin-bottom:30px;}
+.mgn{margin: 20px 0px;}
+div{
+    margin: 0;
+}
+
+.bc_yellow{
+    background-color: #FFD932;
+    padding: 1% 1vw;
+}
+
+.f_bold{
+    font-weight: bold;
+}
+
+.f_red{
+    color: red;
+}
+
+.t_center{
+    text-align: center;
+}
+
+.f_1{font-size: 3.5vw;}
+.f_2{font-size: 4.3vw;}
+
+
+.bc_blue{
+    background-color: #0F2F71;
+    padding: 5px 1vw;
+}
+
+.f_white{color: white;}
+
+.f_3{font-size: 3.5vw;}
+
+.f_under{border-bottom: 2px yellow solid}
+
+.bc_grey{
+    background-color: #D5D5D5;
+    padding: 5px 1vw;
+}
+
+.f_4{font-size: 3.2vw}
+
+.bc_yellow2{
+    background-color: #FFF056;
+    padding: 5px 3vw;
+}
+
+.f_5{font-size: 1vw;}
+
+.last_msg{
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 1.1em;
+}
 
 @media screen and (min-width: 701px){
 
