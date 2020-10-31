@@ -69,7 +69,7 @@ div{
 .last_msg{
     margin-top: 20px;
     margin-bottom: 0;
-    font-size: 1.1em;
+    font-size: 5vw;
 }
 
 @media screen and (min-width: 701px){
@@ -78,5 +78,12 @@ div{
         margin-left: 15%;
         margin-right: 15%
     }
+    
+    .f_1{font-size: 1.2em;}
+    .f_2{font-size: 1.5em;}
+    .f_3{font-size: 1.2em;}
+    .f_4{font-size: 1.2em;}
+    .f_5{font-size: 1em;}
+    .last_msg{font-size: 2em;}
     
 }
