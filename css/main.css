@@ -10,7 +10,8 @@ img{ margin: 0; padding: 0; width: 100%; vertical-align: top;}
 .btn-img{width: inherit;}
 .kome{
     margin-bottom:20px;
-    font-size: 1px;
+    font-size: 9px;
+    text-align: center;
 }
 .kome-mgn{
     margin-top: 20px;
